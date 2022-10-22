@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Login with different users
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.618 s - in Login with different users
